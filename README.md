@@ -1,3 +1,3 @@
 # ME204
-title: Nicolas Tello
-subtitle: Student at IE
+Nicolas Tello
+Student at IE
